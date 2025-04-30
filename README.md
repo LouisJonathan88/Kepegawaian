@@ -22,6 +22,3 @@ Gunakan kredensial berikut untuk login ke dalam sistem:
 - **Admin**
   - Username: `admin`
   - Password: `admin123`
-
-## Kontributor
--Louis Jonathan - 10122362
